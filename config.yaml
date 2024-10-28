@@ -1,0 +1,7 @@
+path: #dataset root directory
+train: images/train #path to train images
+val: images/val # path to validation images
+
+# classes
+names:
+  0: fire
