@@ -12,11 +12,10 @@ Trained on [this](https://ieee-dataport.org/open-access/flame-dataset-aerial-ima
 ![val_batch2_labels](https://github.com/user-attachments/assets/c2014bfd-618b-404c-b7dd-f030ad5b85dc)
 
 
-TODO
- Object Detection
+## TODO List
    - Yolo v11
-   - learn validate
-   - learn predict
+   - learn to validate
    - test on 5-10 epochs
    - test on larger image sizes? (might not be necessary?)
+   - incorporate nonfire images
     
