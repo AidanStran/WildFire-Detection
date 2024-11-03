@@ -1,9 +1,9 @@
 # WildFire-Detection
 Using object detection to identify early signs of wildfire in UAV drones
 
-###Using yolo11n-seg.pt as the current model since it is the fastest
+### Using yolo11n-seg.pt as the current model since it is the fastest
 
-###Trained on [this](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) dataset
+### Trained on [this](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs) dataset
 
 Train.py - > runs the training for the model
 ![val_batch1_pred](https://github.com/user-attachments/assets/57ebaa24-0a9f-41ab-9045-fb4c02411bb3)
