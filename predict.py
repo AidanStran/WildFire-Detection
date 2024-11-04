@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import os
 import cv2
 
-model_path = 'D:/dev/WildFire-Detection/10_epoch_weights/last.pt'
+model_path = 'D:/dev/WildFire-Detection/post_epoch_weights/last.pt'
 image_path = 'D:/dev/WildFire-Detection/TrainANDTest/images/test/image_1845.jpg'
 
 

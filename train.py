@@ -1,5 +1,8 @@
 from ultralytics import YOLO
 
-model = YOLO('yolo11n-seg.pt')  # load a pretrained model (recommended for training)
+#training on last from now one
+#model = YOLO('yolo11n-seg.pt')  # load a pretrained model (recommended for training)
 
-results = model.train(data="config.yaml", epochs=10, imgsz=(640, 360))
+model = YOLO('D:/dev/WildFire-Detection/10_epoch_weights/last.pt')
+
+results = model.train(data="config.yaml", epochs=30, imgsz=(640, 360))
