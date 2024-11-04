@@ -14,8 +14,8 @@ Trained on [this](https://ieee-dataport.org/open-access/flame-dataset-aerial-ima
 
 ## TODO List
    - Yolo v11
-   - learn to validate
-   - test on 5-10 epochs
+   - learn validates charts
+   - make a predict.py
    - test on larger image sizes? (might not be necessary?)
    - incorporate nonfire images
     
