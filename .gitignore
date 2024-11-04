@@ -1,3 +1,4 @@
 TrainANDTest
 .venv
 runs
+10_epochs_weights
