@@ -1,4 +1,4 @@
-path: D:\dev\WildFire-Detection\TrainANDTest #dataset root directory
+path: D:/dev/WildFire-Detection/TrainANDTest #dataset root directory
 train: images/train #path to train images
 val: images/val # path to validation images
 
