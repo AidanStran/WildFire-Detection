@@ -2,6 +2,8 @@ path: D:\dev\WildFire-Detection\TrainANDTest #dataset root directory
 train: images/train #path to train images
 val: images/val # path to validation images
 
+batch: 32
+
 # classes
 nc: 1 # number of classes
 names: ['fire'] # class names
